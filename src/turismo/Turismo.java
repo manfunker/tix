@@ -10,6 +10,7 @@ public class Turismo {
         //csm tamos negros!
         
         //el mati se la come donde anda el weon:C
+        //nose wn q l4 chupe
     }
     
 }
