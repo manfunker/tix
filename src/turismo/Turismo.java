@@ -7,7 +7,7 @@ public class Turismo {
         
         //nos fuimos a la b
         
-        
+        //csm tamos negros!
     }
     
 }
