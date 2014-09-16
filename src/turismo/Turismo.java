@@ -8,6 +8,8 @@ public class Turismo {
         //nos fuimos a la b
         
         //csm tamos negros!
+        
+        //el mati se la come donde anda el weon:C
     }
     
 }
